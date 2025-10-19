@@ -1,3 +1,1 @@
-Hi! I'm MultiTasking! I am a coder, a musician, a sportsperson and a small youtuber! My channel has the tag @amultitaskingperson and all the links including my music and my instagram are there. 
-I am currently learning python, html css, javascript, java, c++, c# and c. As a musician, i'm a pianist, a drummer, a guitarist, a singer, a saxophonist and i play many other small instruments. As a sportsperson, i'm a golfer, a tennis player, a former football player, a martial artist (mixed martial arts: taekwondo, judo and karate), a badminton player, a table tennis player and a chess player. My Lichess ID is MultiTaskingYT, be sure to send me a challenge request.
-I post gaming, music, coding, science, darkweb and cool project videos! Be sure to subscribe!
+
